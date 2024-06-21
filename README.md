@@ -1,5 +1,3 @@
-# demoDSWT (ca fonctionne bien.)
-if (spaghetti = cut /2) {
-  do send.to.jail;
-}
-  
+# demoDSWT
+
+Documentation pour présenter le projet GIT
